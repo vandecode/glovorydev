@@ -12,6 +12,7 @@ fields:
   config:
     required: false
   label: Excerpt
+  hidden: true
 - name: date
   type: datetime
   label: Date
